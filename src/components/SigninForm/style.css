@@ -1,0 +1,34 @@
+.form-signin-logo {
+    width: 48px;
+}
+
+.form-signin-main {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.form-signin {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 330px;
+}
+
+.form-signin-item {
+    width: 100%;
+}
+
+.form-signin-item input {
+    width: 100%;
+    height: 50px;
+}
+.form-signin-btn {
+    width: 330px;
+}
+
+.form-signin-copy {
+    font-size: 12px;
+}
