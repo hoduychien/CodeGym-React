@@ -16,7 +16,7 @@ const index = () => {
                 <div className="form-item form-signin-item">
                     <input
                         type="email"
-                        class="form-control shadow-none rounded-0 border-bottom-0"
+                        className="form-control shadow-none rounded-0 border-bottom-0"
                         placeholder="Email address"
                         id="email"
                         name="email"
@@ -29,7 +29,7 @@ const index = () => {
                         type="password"
                         name="password"
                         id="password"
-                        class="form-control shadow-none rounded-0"
+                        className="form-control shadow-none rounded-0"
                         placeholder="Password"
                     />
                 </div>
